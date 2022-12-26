@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Borga Haktan Bilen</h1>
-<h3 align="center">A passionate computer science junior at Bilkent University</h3>
+<h3 align="center">A determined computer science junior at Bilkent University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
