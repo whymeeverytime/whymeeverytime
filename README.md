@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Borga Haktan Bilen</h1>
-# 💫 About Me:
+💫 About Me:
 A determined computer science senior at Bilkent University
 
 
