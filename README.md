@@ -13,9 +13,6 @@ A determined computer science senior at Bilkent University
 ![](https://github-readme-streak-stats.herokuapp.com/?user=whymeeverytime&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whymeeverytime&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=whymeeverytime&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=whymeeverytime&icon=6&color=11)](https://visitcount.itsvg.in)
 
